@@ -1,4 +1,4 @@
-# Automated-CI-CD-Pipeline-for-Microservices and deployed a zomato clone using Docker Stack
+# Automated-CI-CD-Pipeline to deploy a zomato clone using Docker Stack
 **Description:**
   Implemented a CI/CD pipeline using Jenkins to build, test, scan, and deploy a microservices-based application.
   Integrated with Git for source control and Docker for containerizing services.
